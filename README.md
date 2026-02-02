@@ -47,15 +47,6 @@ Každá lekce má vlastní složku, která obsahuje:
 - `README.md` – výklad a zadání dané lekce,
 - složku `cviceni/` s podsložkami pro jednotlivé úkoly.
 
-Struktura lekce:
-lekceX_nazev/
-├── README.md
-└── cviceni/
-├── X.1/
-├── X.2/
-├── ...
-
-
 ---
 
 ## 📚 Obsah lekcí
